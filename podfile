@@ -1,0 +1,4 @@
+platform :ios, '7.0'
+target 'Https' do
+pod 'AFNetworking'
+end
